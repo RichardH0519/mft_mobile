@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "856505605435",
+    "firebase_url": "https://mft-app-946c4-default-rtdb.firebaseio.com",
+    "project_id": "mft-app-946c4",
+    "storage_bucket": "mft-app-946c4.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:856505605435:android:f51195144f8c49c464ab1e",
+        "android_client_info": {
+          "package_name": "com.example.mft_customer_side"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "856505605435-65t4tpdu04k6nge8k8n6mcs9rj2b6mrk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAL2vZY3cKiGIwZCBjd1dPspKjsA673rKk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "856505605435-65t4tpdu04k6nge8k8n6mcs9rj2b6mrk.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
